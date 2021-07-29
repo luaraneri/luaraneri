@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Luara Neri 🐔
 
-- 🔭 Atualmente trabalho na área de Compras de uma fornecedora automotiva
-- 🌱 Atualmente estou aprendendo Python
-- 📫 How to reach me: luara.neri@hotmail.com
-- 😄 Pronouns: Ela/Dela
+- Atualmente trabalho na área de Compras de uma fornecedora automotiva
+- Atualmente estou aprendendo Python
+- Contato: luara.neri@hotmail.com
 
 <div>
   <a href="https://github.com/luaraneri">

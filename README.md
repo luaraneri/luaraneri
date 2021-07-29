@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Luara Neri 🐔
 
 - Atualmente trabalho na área de Compras de uma fornecedora automotiva
-- Atualmente estou aprendendo Python
-- Contato: luara.neri@hotmail.com
+- Estou aprendendo Python
 
 <div>
   <a href="https://github.com/luaraneri">

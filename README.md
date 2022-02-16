@@ -1,12 +1,12 @@
 ### Olá! Eu sou a Luara Neri 🐔
 
-- Atualmente trabalho na área de Compras de uma fornecedora automotiva
-- Estou aprendendo Python
+- Atualmente estou aprendendo SQL
+- Tenho intenção de me desenvolver mais profundamente em Python
 
 <div>
   <a href="https://github.com/luaraneri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luaraneri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaraneri&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api?username=luaraneri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaraneri&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>

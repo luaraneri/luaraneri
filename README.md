@@ -13,7 +13,7 @@
   <img align="center" alt="Lu-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Lu-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Lu-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Lu-SQL" height="30" width="30" src="https://dbdb.io/media/logos/bigquery.png">
+  <img align="center" alt="Lu-SQL" height="30" width="35" src="https://dbdb.io/media/logos/bigquery.png">
   
 </div>
   
